@@ -82,47 +82,6 @@ To ensure a smooth and productive partnership, please consider the following gui
   - **Contributions**: Each author should have made substantial contributions to the work, approved the final version, and agreed to be accountable for their contributions to ensure the accuracy and integrity of the research.
   - **Affiliations**: The primary affiliation for each author should be the institution where the majority of their work was conducted. If the author has since moved, their current address may also be included.
 
-## 💻 Available software
-<table  style="width:100%;">
-<tbody>
-<tr>
-<td align="left" width="10%" height= 50><img src="/_images/arivis.png" alt="ZEISS Arivis Pro logo"></td>
-<td align="left" width="40%" height =50>ZEISS Arivis Pro</td>
-<td align="left" width="10%" height =50><img src="/_images/zen.png" alt="ZEISS ZEN logo"></td>
-<td align="left" width="40%" height =50>ZEISS ZEN</td>
-</tr>
-<tr>
-<td align="left" width="10%" height= 50><img src="/_images/SVI.png" alt="SVI Huygens logo"></td>
-<td align="left" width="40%" height =50>SVI Huygens Professional</td>
-<td align="left" width="10%" height =50><img src="/_images/nis.png" alt="NIS elements logo"></td>
-<td align="left" width="40%" height =50>NIS Elements</td>
-</tr>
-<tr>
-<td align="left" width="10%" height= 50><img src="/_images/SPCImage.png" alt="SPCImage logo"></td>
-<td align="left" width="40%" height =50>SPCImage FLIM analysis</td>
-<td align="left" width="10%" height =50><img src="/_images/BIOP-desktop.png" alt="BIOP Desktop logo"></td>
-<td align="left" width="40%" height =50>BIOP-Desktop</td>
-</tr>
-<tr>
-<td align="left" width="10%" height= 50><img src="/_images/fiji.png" alt="FIJI logo"></td>
-<td align="left" width="40%" height =50>ImageJ/FIJI</td>
-<td align="left" width="10%" height =50><img src="/_images/napari.png" alt="Napari logo"></td>
-<td align="left" width="40%" height =50>Napari</td>
-</tr>
-<tr>
-<td align="left" width="10%" height= 50><img src="/_images/cellpose.png" alt="Cellpose logo"></td>
-<td align="left" width="40%" height =50>Cellpose</td>
-<td align="left" width="10%" height =50><img src="/_images/ilastik.png" alt="Ilastik logo"></td>
-<td align="left" width="40%" height =50>Ilastik</td>
-</tr>
-<tr>
-<td align="left" width="10%" height= 50><img src="/_images/qupath.png" alt="QuPath logo"></td>
-<td align="left" width="40%" height =50>QuPath</td>
-<td align="left" width="10%" height =50></td>
-<td align="left" width="40%" height =50>and more...</td>
-</tr>
-</tbody>
-</table>
 
 ## ⌨️ Workstations
 
@@ -218,6 +177,3 @@ For any inquiries or to schedule a consultation, please reach out through the fo
 - **Email**: [konfmi@natur.cuni.cz](mailto:konfmi@natur.cuni.cz)
 - **Schedule a Meeting**: [Calendly](https://calendly.com/)
 - **Consultancy Guidelines**: Please review the [Bioimage Analysis Consultancy](#bioimage-analysis-consultancy) section before booking a consultation.
-
-## 🔗 More information and latest news
-<img src="/_images/github_logo.svg" alt="GitHub Logo" width="20" height="20"> &nbsp; [VMCF GitHub](https://github.com/vmcf-konfmi)<br><img src="/_images/X_logo.svg" alt="X Logo" width="20" height="20">  &nbsp; [X (@IMCF_vinicna)](https://x.com/IMCF_vinicna)<br><img src="/_images/web_logo.svg" alt="Website Logo" width="20" height="20">  &nbsp; [Viničná Microscopy Core Facility (VMCF)](https://web.natur.cuni.cz/sekce-bi/VMCF/)<br><img src="/_images/web_logo.svg" alt="Website Logo" width="20" height="20">  &nbsp; [Laboratory of Confocal and Fluorescence Microscopy (KONFMI)](https://www.natur.cuni.cz/biology/service/laboratory-of-confocal-and-fluorescence-microscopy?set_language=en)
