@@ -10,3 +10,6 @@ post_type: page
 ## Subtitle
 **b**
 *i*
+
+ - [ ] Ano
+ - [x] ne
