@@ -5,7 +5,7 @@ status: publish
 post_type: page
 ---
 
-# <img src="images/VMCF_logo_bg.svg" alt="VMCF Logo" height="40"><br> Viničná Microscopy Core Facility
+# <img src="_images/VMCF_logo_bg.svg" alt="VMCF Logo" height="40"><br> Viničná Microscopy Core Facility
 
 ## 🚀 About Us
 
@@ -15,7 +15,7 @@ Welcome to the Viničná Microscopy Core Facility! We are an open-access resourc
 
 ## 🤝 What we offer
 
-|<div align="center"><img src="images/consulting2.png" alt="Consultations" height="50"><br>Consultations</div>|<div align="center"><img src="images/services.png" alt="Services" height="50"><br>Services</div>|<div align="center"><img src="images/training.png" alt="Trainng" height="50"><br>Teaching</div>|
+|<div align="center"><img src="__images/consulting2.png" alt="Consultations" height="50"><br>Consultations</div>|<div align="center"><img src="__images/services.png" alt="Services" height="50"><br>Services</div>|<div align="center"><img src="__images/training.png" alt="Trainng" height="50"><br>Teaching</div>|
 |---|---|---|
 |<li>Sample preparation</li><li>Imaging techniques</li><li>[Bioimage analysis](#bioimage-analysis-consultancy)</li></ul>|<li>[Advanced imaging](#-advanced-imaging---available-light-microscopy-equipment)</li><li>[Bioimage analysis](#%EF%B8%8F-bioimage-analysis-service)</li><li>[Software and infrastructure access](#-available-software)</li><li>User training</li>|<li>[Personalized training](#individual-trainings)</li><li>[Workshops and group courses](#courses-and-seminars)</li>|
 
@@ -86,37 +86,37 @@ To ensure a smooth and productive partnership, please consider the following gui
 <table  style="width:100%;">
 <tbody>
 <tr>
-<td align="left" width="10%" height= 50><img src="images/arivis.png" alt="ZEISS Arivis Pro logo"></td>
+<td align="left" width="10%" height= 50><img src="_images/arivis.png" alt="ZEISS Arivis Pro logo"></td>
 <td align="left" width="40%" height =50>ZEISS Arivis Pro</td>
-<td align="left" width="10%" height =50><img src="images/zen.png" alt="ZEISS ZEN logo"></td>
+<td align="left" width="10%" height =50><img src="_images/zen.png" alt="ZEISS ZEN logo"></td>
 <td align="left" width="40%" height =50>ZEISS ZEN</td>
 </tr>
 <tr>
-<td align="left" width="10%" height= 50><img src="images/SVI.png" alt="SVI Huygens logo"></td>
+<td align="left" width="10%" height= 50><img src="_images/SVI.png" alt="SVI Huygens logo"></td>
 <td align="left" width="40%" height =50>SVI Huygens Professional</td>
-<td align="left" width="10%" height =50><img src="images/nis.png" alt="NIS elements logo"></td>
+<td align="left" width="10%" height =50><img src="_images/nis.png" alt="NIS elements logo"></td>
 <td align="left" width="40%" height =50>NIS Elements</td>
 </tr>
 <tr>
-<td align="left" width="10%" height= 50><img src="images/SPCImage.png" alt="SPCImage logo"></td>
+<td align="left" width="10%" height= 50><img src="_images/SPCImage.png" alt="SPCImage logo"></td>
 <td align="left" width="40%" height =50>SPCImage FLIM analysis</td>
-<td align="left" width="10%" height =50><img src="images/BIOP-desktop.png" alt="BIOP Desktop logo"></td>
+<td align="left" width="10%" height =50><img src="_images/BIOP-desktop.png" alt="BIOP Desktop logo"></td>
 <td align="left" width="40%" height =50>BIOP-Desktop</td>
 </tr>
 <tr>
-<td align="left" width="10%" height= 50><img src="images/fiji.png" alt="FIJI logo"></td>
+<td align="left" width="10%" height= 50><img src="_images/fiji.png" alt="FIJI logo"></td>
 <td align="left" width="40%" height =50>ImageJ/FIJI</td>
-<td align="left" width="10%" height =50><img src="images/napari.png" alt="Napari logo"></td>
+<td align="left" width="10%" height =50><img src="_images/napari.png" alt="Napari logo"></td>
 <td align="left" width="40%" height =50>Napari</td>
 </tr>
 <tr>
-<td align="left" width="10%" height= 50><img src="images/cellpose.png" alt="Cellpose logo"></td>
+<td align="left" width="10%" height= 50><img src="_images/cellpose.png" alt="Cellpose logo"></td>
 <td align="left" width="40%" height =50>Cellpose</td>
-<td align="left" width="10%" height =50><img src="images/ilastik.png" alt="Ilastik logo"></td>
+<td align="left" width="10%" height =50><img src="_images/ilastik.png" alt="Ilastik logo"></td>
 <td align="left" width="40%" height =50>Ilastik</td>
 </tr>
 <tr>
-<td align="left" width="10%" height= 50><img src="images/qupath.png" alt="QuPath logo"></td>
+<td align="left" width="10%" height= 50><img src="_images/qupath.png" alt="QuPath logo"></td>
 <td align="left" width="40%" height =50>QuPath</td>
 <td align="left" width="10%" height =50></td>
 <td align="left" width="40%" height =50>and more...</td>
@@ -157,12 +157,12 @@ Our courses, seminars, and workshops are designed to provide an in-depth underst
 <table style="width:100%;">
 <tbody>
 <tr>
-  <td align="left" width="25%"><img src="images/schatz.png" alt="Martin Schätz"></td>
+  <td align="left" width="25%"><img src="_images/schatz.png" alt="Martin Schätz"></td>
   <td align="left"><font size="4"><b>Martin Schätz</b></font><br>Email: martin.Schatz@natur.cuni.cz, X: @SchatzCz, ORCID:0000-0003-0931-4017 <br>Specializes in designing and implementing advanced workflows for user projects, advising on experimental design, and managing research data. His work includes teaching advanced image analysis techniques, research data management, open science and mentoring researchers on microscopy and data processing.
   </td>
 </tr>
 <tr>
-  <td align="left" width="25%"><img src="images/garcia.png" alt="Judith Garcia-Gonzalez"></td>
+  <td align="left" width="25%"><img src="_images/garcia.png" alt="Judith Garcia-Gonzalez"></td>
   <td align="left"><font size="4"><b>Judith Garcia-Gonzalez</b></font><br>Email: garciagj@natur.cuni.cz, X: @judith_garciago <br>Specializes in bioimage analysis with expertise in cell and cytoskeleton segmentation, and has extensive experience in studying protein dynamics and interactions using fluorescence microscopy. Her work also includes teaching both foundational and advanced bioimage analysis techniques.
   </td>
 </tr>
@@ -220,4 +220,4 @@ For any inquiries or to schedule a consultation, please reach out through the fo
 - **Consultancy Guidelines**: Please review the [Bioimage Analysis Consultancy](#bioimage-analysis-consultancy) section before booking a consultation.
 
 ## 🔗 More information and latest news
-<img src="images/github_logo.svg" alt="GitHub Logo" width="20" height="20"> &nbsp; [VMCF GitHub](https://github.com/vmcf-konfmi)<br><img src="images/X_logo.svg" alt="X Logo" width="20" height="20">  &nbsp; [X (@IMCF_vinicna)](https://x.com/IMCF_vinicna)<br><img src="images/web_logo.svg" alt="Website Logo" width="20" height="20">  &nbsp; [Viničná Microscopy Core Facility (VMCF)](https://web.natur.cuni.cz/sekce-bi/VMCF/)<br><img src="images/web_logo.svg" alt="Website Logo" width="20" height="20">  &nbsp; [Laboratory of Confocal and Fluorescence Microscopy (KONFMI)](https://www.natur.cuni.cz/biology/service/laboratory-of-confocal-and-fluorescence-microscopy?set_language=en)
+<img src="_images/github_logo.svg" alt="GitHub Logo" width="20" height="20"> &nbsp; [VMCF GitHub](https://github.com/vmcf-konfmi)<br><img src="_images/X_logo.svg" alt="X Logo" width="20" height="20">  &nbsp; [X (@IMCF_vinicna)](https://x.com/IMCF_vinicna)<br><img src="_images/web_logo.svg" alt="Website Logo" width="20" height="20">  &nbsp; [Viničná Microscopy Core Facility (VMCF)](https://web.natur.cuni.cz/sekce-bi/VMCF/)<br><img src="_images/web_logo.svg" alt="Website Logo" width="20" height="20">  &nbsp; [Laboratory of Confocal and Fluorescence Microscopy (KONFMI)](https://www.natur.cuni.cz/biology/service/laboratory-of-confocal-and-fluorescence-microscopy?set_language=en)
