@@ -7,6 +7,8 @@ post_type: page
 
 # <img src="./_images/VMCF_logo_bg.png" alt="VMCF Logo" height="40"><br> Viničná Microscopy Core Facility
 
+![alt text for the image](./_images/VMCF_logo_bg.jpg "Caption for the image")
+
 ## 🚀 About Us
 
 Welcome to the Viničná Microscopy Core Facility! We are an open-access resource specializing in advanced microscopy and bioimage analysis. As part of the Laboratory of Confocal and Fluorescence Microscopy, we offer a wide range of services, including cutting-edge imaging technologies and expert analytical support to meet your research needs.
