@@ -16,7 +16,7 @@ Welcome to the Viničná Microscopy Core Facility! We are an open-access resourc
 
 ## 🤝 What we offer
 
-| ![Consultations](/_images/consulting2.png) <br> **Consultations** | ![Services](/_images/services.png) <br> **Services** | ![Teaching](/_images/training.png) <br> **Teaching** |
+| ![Consultations](/_images/consulting2.png){width=50px} <br> **Consultations** | ![Services](/_images/services.png){width=50px} <br> **Services** | ![Teaching](/_images/training.png){width=50px} <br> **Teaching** |
 | :--- | :--- | :--- |
 | • Sample preparation <br> • Imaging techniques <br> • [Bioimage analysis](#bioimage-analysis-consultancy) | • [Advanced imaging](#-advanced-imaging---available-light-microscopy-equipment) <br> • [Bioimage analysis](#%EF%B8%8F-bioimage-analysis-service) <br> • [Software and infrastructure access](#-available-software) <br> • User training | • [Personalized training](#individual-trainings) <br> • [Workshops and group courses](#courses-and-seminars) |
 ## 💡Bioimage Analysis Consultancy
