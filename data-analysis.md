@@ -5,11 +5,8 @@ status: publish
 post_type: page
 ---
 
-# <img src="/_images/VMCF_logo_bg.jpg" alt="VMCF Logo" height="40"><br> Viničná Microscopy Core Facility
+# ![alt text](/_images/VMCF_logo.png "") Viničná Microscopy Core Facility
 
-![alt text for the image](/_images/VMCF_logo_bg.png "Caption for the image")
-
-![alt text](/_images/VMCF_logo.png "This is logo")
 
 ## 🚀 About Us
 
@@ -19,10 +16,9 @@ Welcome to the Viničná Microscopy Core Facility! We are an open-access resourc
 
 ## 🤝 What we offer
 
-|<div align="center"><img src="/_images/consulting2.png" alt="Consultations" height="50"><br>Consultations</div>|<div align="center"><img src="/_images/services.png" alt="Services" height="50"><br>Services</div>|<div align="center"><img src="/_images/training.png" alt="Trainng" height="50"><br>Teaching</div>|
-|---|---|---|
-|<li>Sample preparation</li><li>Imaging techniques</li><li>[Bioimage analysis](#bioimage-analysis-consultancy)</li></ul>|<li>[Advanced imaging](#-advanced-imaging---available-light-microscopy-equipment)</li><li>[Bioimage analysis](#%EF%B8%8F-bioimage-analysis-service)</li><li>[Software and infrastructure access](#-available-software)</li><li>User training</li>|<li>[Personalized training](#individual-trainings)</li><li>[Workshops and group courses](#courses-and-seminars)</li>|
-
+| ![Consultations](/_images/consulting2.png) <br> **Consultations** | ![Services](/_images/services.png) <br> **Services** | ![Teaching](/_images/training.png) <br> **Teaching** |
+| :--- | :--- | :--- |
+| • Sample preparation <br> • Imaging techniques <br> • [Bioimage analysis](#bioimage-analysis-consultancy) | • [Advanced imaging](#-advanced-imaging---available-light-microscopy-equipment) <br> • [Bioimage analysis](#%EF%B8%8F-bioimage-analysis-service) <br> • [Software and infrastructure access](#-available-software) <br> • User training | • [Personalized training](#individual-trainings) <br> • [Workshops and group courses](#courses-and-seminars) |
 ## 💡Bioimage Analysis Consultancy
 Our Image Analysis Consultancy provides personalized support to help you optimize and navigate your bioimage analysis workflows. Whether you're establishing new processes or refining existing ones, we're here to assist every step of the way.
 
