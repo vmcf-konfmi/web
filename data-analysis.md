@@ -16,7 +16,7 @@ Welcome to the Viničná Microscopy Core Facility! We are an open-access resourc
 
 ## 🤝 What we offer
 
-| ![Consultations](/_images/consulting2.png){width=50px} <br> **Consultations** | ![Services](/_images/services.png){width=50px} <br> **Services** | ![Teaching](/_images/training.png){width=50px} <br> **Teaching** |
+| ![Consultations](/_images/consulting2.png) <br> **Consultations** | ![Services](/_images/services.png) <br> **Services** | ![Teaching](/_images/training.png) <br> **Teaching** |
 | :--- | :--- | :--- |
 | • Sample preparation <br> • Imaging techniques <br> • [Bioimage analysis](#bioimage-analysis-consultancy) | • [Advanced imaging](#-advanced-imaging---available-light-microscopy-equipment) <br> • [Bioimage analysis](#%EF%B8%8F-bioimage-analysis-service) <br> • [Software and infrastructure access](#-available-software) <br> • User training | • [Personalized training](#individual-trainings) <br> • [Workshops and group courses](#courses-and-seminars) |
 ## 💡Bioimage Analysis Consultancy
@@ -82,6 +82,16 @@ To ensure a smooth and productive partnership, please consider the following gui
   - **Contributions**: Each author should have made substantial contributions to the work, approved the final version, and agreed to be accountable for their contributions to ensure the accuracy and integrity of the research.
   - **Affiliations**: The primary affiliation for each author should be the institution where the majority of their work was conducted. If the author has since moved, their current address may also be included.
 
+## 💻 Available software
+
+| Icon | Software | Icon | Software |
+| :---: | :--- | :---: | :--- |
+| ![ZEISS Arivis Pro](/_images/arivis.png) | ZEISS Arivis Pro | ![ZEISS ZEN](/_images/zen.png) | ZEISS ZEN |
+| ![SVI Huygens Professional](/_images/SVI.png) | SVI Huygens Professional | ![NIS Elements](/_images/nis.png) | NIS Elements |
+| ![SPCImage FLIM analysis](/_images/SPCImage.png) | SPCImage FLIM analysis | ![BIOP-Desktop](/_images/BIOP-desktop.png) | BIOP-Desktop |
+| ![ImageJ/FIJI](/_images/fiji.png) | ImageJ/FIJI | ![Napari](/_images/napari.png) | Napari |
+| ![Cellpose](/_images/cellpose.png) | Cellpose | ![Ilastik](/_images/ilastik.png) | Ilastik |
+| ![QuPath](/_images/qupath.png) | QuPath | | and more... |
 
 ## ⌨️ Workstations
 
@@ -112,57 +122,21 @@ Our courses, seminars, and workshops are designed to provide an in-depth underst
 
 
 
+
 ## 👨‍💻 Our team
-<table style="width:100%;">
-<tbody>
-<tr>
-  <td align="left" width="25%"><img src="/_images/schatz.png" alt="Martin Schätz"></td>
-  <td align="left"><font size="4"><b>Martin Schätz</b></font><br>Email: martin.Schatz@natur.cuni.cz, X: @SchatzCz, ORCID:0000-0003-0931-4017 <br>Specializes in designing and implementing advanced workflows for user projects, advising on experimental design, and managing research data. His work includes teaching advanced image analysis techniques, research data management, open science and mentoring researchers on microscopy and data processing.
-  </td>
-</tr>
-<tr>
-  <td align="left" width="25%"><img src="/_images/garcia.png" alt="Judith Garcia-Gonzalez"></td>
-  <td align="left"><font size="4"><b>Judith Garcia-Gonzalez</b></font><br>Email: garciagj@natur.cuni.cz, X: @judith_garciago <br>Specializes in bioimage analysis with expertise in cell and cytoskeleton segmentation, and has extensive experience in studying protein dynamics and interactions using fluorescence microscopy. Her work also includes teaching both foundational and advanced bioimage analysis techniques.
-  </td>
-</tr>
-<tr>
-  <td align="left" width="25%"><img src="" alt="Team member"></td>
-  <td align="left"><font size="4"><b>Team member </b></font><br>Email: team_member@natur.cuni.cz, X: @team_member <br>Team member description
-  </td>
-</tr>
-</tbody>
-</table>
+| Profile | Contact & Biography |
+| :--- | :--- |
+| ![Martin Schätz](/_images/schatz.png) | **Martin Schätz** <br> Email: martin.Schatz@natur.cuni.cz <br> X: @SchatzCz \| ORCID: 0000-0003-0931-4017 <br> Specializes in designing and implementing advanced workflows for user projects, advising on experimental design, and managing research data. His work includes teaching advanced image analysis techniques, research data management, open science and mentoring researchers on microscopy and data processing. |
+| ![Judith Garcia-Gonzalez](/_images/garcia.png) | **Judith Garcia-Gonzalez** <br> Email: garciagj@natur.cuni.cz <br> X: @judith_garciago <br> Specializes in bioimage analysis with expertise in cell and cytoskeleton segmentation, and has extensive experience in studying protein dynamics and interactions using fluorescence microscopy. Her work also includes teaching both foundational and advanced bioimage analysis techniques. |
+| ![Team member](/_images/team-placeholder.png) | **Team member** <br> Email: team_member@natur.cuni.cz <br> X: @team_member <br> Team member description |
 
 ## 💲Pricelist (without VAT)
-<table style="width:100%;">
-  <tbody>
-    <tr>
-      <td align="left" width="25%"><b>Service</b></td>
-      <td align="left"><b>Description</b></td>
-      <td align="left" width="20%"><b>Rate (per hour)</b></td>
-    </tr>
-    <tr>
-      <td align="left" width="25%">Consultations</td>
-      <td align="left">Discussion with a bioimage analyst to define and understand the problem.</td>
-      <td align="left" width="20%">41.32 Kč</td>
-    </tr>
-    <tr>
-      <td align="left" width="25%">Workflow Establishment</td>
-      <td align="left">In-depth exploration of the problem, researching potential solutions, and setting up workflows.</td>
-      <td align="left" width="20%">83.47 Kč</td>
-    </tr>
-    <tr>
-      <td align="left" width="25%">Manual Analysis/Scripting</td>
-      <td align="left">Development of custom scripts or manual processing and analysis of images.</td>
-      <td align="left" width="20%">322.31 Kč</td>
-    </tr>
-    <tr>
-      <td align="left" width="25%">Computing Time</td>
-      <td align="left">Charges for the time spent running scripts or imaging program functions, billed per millisecond of processing time.</td>
-      <td align="left" width="20%">387.60 Kč</td>
-    </tr>
-  </tbody>
-</table>
+| Service | Description | Rate (per hour) |
+| :--- | :--- | :--- |
+| Consultations | Discussion with a bioimage analyst to define and understand the problem. | 41.32 Kč |
+| Workflow Establishment | In-depth exploration of the problem, researching potential solutions, and setting up workflows. | 83.47 Kč |
+| Manual Analysis/Scripting | Development of custom scripts or manual processing and analysis of images. | 322.31 Kč |
+| Computing Time | Charges for the time spent running scripts or imaging program functions, billed per millisecond of processing time. | 387.60 Kč |
 
 ## 📩 Contact
 You can find us at: <br>
