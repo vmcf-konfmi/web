@@ -5,9 +5,9 @@ status: publish
 post_type: page
 ---
 
-# <img src="./_images/VMCF_logo_bg.png" alt="VMCF Logo" height="40"><br> Viničná Microscopy Core Facility
+# <img src="/_images/VMCF_logo_bg.png" alt="VMCF Logo" height="40"><br> Viničná Microscopy Core Facility
 
-![alt text for the image](./_images/VMCF_logo_bg.jpg "Caption for the image")
+![alt text for the image](/_images/VMCF_logo_bg.jpg "Caption for the image")
 
 ## 🚀 About Us
 
