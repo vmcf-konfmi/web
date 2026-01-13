@@ -5,7 +5,7 @@ status: publish
 post_type: page
 ---
 
-# ![alt text](/_images/VMCF_logo.png "") Viničná Microscopy Core Facility
+# BioImage Analysis at Viničná Microscopy Core Facility
 
 
 ## 🚀 About Us
@@ -86,12 +86,12 @@ To ensure a smooth and productive partnership, please consider the following gui
 
 | Icon | Software | Icon | Software |
 | :---: | :--- | :---: | :--- |
-| ![ZEISS Arivis Pro](/_images/arivis.png) | ZEISS Arivis Pro | ![ZEISS ZEN](/_images/zen.png) | ZEISS ZEN |
-| ![SVI Huygens Professional](/_images/SVI.png) | SVI Huygens Professional | ![NIS Elements](/_images/nis.png) | NIS Elements |
-| ![SPCImage FLIM analysis](/_images/SPCImage.png) | SPCImage FLIM analysis | ![BIOP-Desktop](/_images/BIOP-desktop.png) | BIOP-Desktop |
-| ![ImageJ/FIJI](/_images/fiji.png) | ImageJ/FIJI | ![Napari](/_images/napari.png) | Napari |
-| ![Cellpose](/_images/cellpose.png) | Cellpose | ![Ilastik](/_images/ilastik.png) | Ilastik |
-| ![QuPath](/_images/qupath.png) | QuPath | | and more... |
+| ![ZEISS Arivis Pro](/_images/software/arivis.png) | ZEISS Arivis Pro | ![ZEISS ZEN](/_images/software/zen.png) | ZEISS ZEN |
+| ![SVI Huygens Professional](/_images/software/SVI.png) | SVI Huygens Professional | ![NIS Elements](/_images/software/nis.png) | NIS Elements |
+| ![SPCImage FLIM analysis](/_images/software/SPCImage.png) | SPCImage FLIM analysis | ![BIOP-Desktop](/_images/software/BIOP-desktop.png) | BIOP-Desktop |
+| ![ImageJ/FIJI](/_images/software/fiji.png) | ImageJ/FIJI | ![Napari](/_images/software/napari.png) | Napari |
+| ![Cellpose](/_images/software/cellpose.png) | Cellpose | ![Ilastik](/_images/software/ilastik.png) | Ilastik |
+| ![QuPath](/_images/software/qupath.png) | QuPath | | and more... |
 
 ## ⌨️ Workstations
 
@@ -151,3 +151,10 @@ For any inquiries or to schedule a consultation, please reach out through the fo
 - **Email**: [konfmi@natur.cuni.cz](mailto:konfmi@natur.cuni.cz)
 - **Schedule a Meeting**: [Calendly](https://calendly.com/)
 - **Consultancy Guidelines**: Please review the [Bioimage Analysis Consultancy](#bioimage-analysis-consultancy) section before booking a consultation.
+
+## 🔗 More information and latest news
+
+* ![GitHub Logo](/_images/github_logo.png "GitHub") [VMCF GitHub](https://github.com/vmcf-konfmi)
+* ![X Logo](/_images/X_logo.png "X") [X (@IMCF_vinicna)](https://x.com/IMCF_vinicna)
+* ![Website Logo](/_images/web_logo.png "Website") [Viničná Microscopy Core Facility (VMCF)](https://web.natur.cuni.cz/sekce-bi/VMCF/)
+* ![Website Logo](/_images/web_logo.png "Website") [Laboratory of Confocal and Fluorescence Microscopy (KONFMI)](https://www.natur.cuni.cz/biology/service/laboratory-of-confocal-and-fluorescence-microscopy?set_language=en)
