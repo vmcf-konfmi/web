@@ -5,8 +5,6 @@ post_status: future
 post_type: page
 ---
 
-# Data Management Guidelines
-
 These guidelines supplement and strictly adhere to the **Charles University (CU) Research Data Policy** (adopted 2024), ensuring all data generated within the facility are managed in line with the **FAIR principles** (Findable, Accessible, Interoperable, Reusable).
 
 ---

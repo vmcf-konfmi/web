@@ -5,8 +5,6 @@ post_status: future
 post_type: page
 ---
 
-# Storage Guidelines
-
 ## 1. Raw Data Lifecycle & NAS Storage
 All data acquired on facility microscopes are initially saved to the local **NAS (Network Attached Storage)**.
 
