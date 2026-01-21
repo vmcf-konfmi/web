@@ -26,7 +26,7 @@ Determining and adhering to the **mandatory data retention period** (which varie
 
 The Facility provides temporary, secure storage for active experiments only. It is the User's responsibility to transfer data to long-term storage within the retention window.
 
-For detailed information, you can refer to our Storage Guidelines.
+For detailed information, you can refer to our [VMCF Storage Guidelines](https://web.natur.cuni.cz/sekce-bi/VMCF/storage-guidelines/).
 
 ### Immediate Storage
 Immediately after acquisition, data are temporarily stored on the **Local Network Attached Storage (NAS)**, utilizing **RAID 5** for fault tolerance. This storage is secured but is **not intended for long-term data preservation**.
@@ -56,6 +56,8 @@ Since CU/Faculty do not provide a centralized institutional repository for final
 * **CESNET** (through negotiation).
 * **User-specific storages**.
 * All preservation must align with the User’s **Data Management Plan (DMP)**.
+
+For detailed information, you can refer to our [VMCF Storage Guidelines](https://web.natur.cuni.cz/sekce-bi/VMCF/storage-guidelines/).
 
 ---
 
