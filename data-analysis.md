@@ -94,10 +94,13 @@ To ensure a smooth and productive partnership, please consider the following gui
 | ![QuPath](/_images/software/qupath.png) | QuPath | | and more... |
 
 ## ⌨️ Workstations
+We plan to set up 3 new workstations that will be accessible through reservation system.
 
 ## ⚡High computing infrastructure
+At the moment it is possible to use on-site server Mazlik, od to use [BIOP-Desktop](https://biop.github.io/biop-desktop-doc/) through [onDemand service of metacentrum](https://docs.metacentrum.cz/en/docs/graphical/ondemand).
 
 ## 💾 Data storage
+Please make yourself familiar with our [Data Management Guidelines](https://web.natur.cuni.cz/sekce-bi/VMCF/data-management-guide/) and [Data Storage Guidelines](https://web.natur.cuni.cz/sekce-bi/VMCF/storage-guidelines/).
   
 ## 🔬 Advanced imaging - available light microscopy equipment
 At our core facility, we offer advanced microscopy techniques, including super-resolution, confocal, and high-throughput imaging. Our team is here to help you select the best tools and fine-tune your workflows, ensuring you get the most valuable insights from your samples.
@@ -114,29 +117,16 @@ Our core facility offers a variety of training options that are tailored to meet
 ### Courses and seminars
 Our courses, seminars, and workshops are designed to provide an in-depth understanding of bioimage analysis, with a focus on practical applications for interpreting microscopy data.
 
-* [4EU+ Advanced Image analysis](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=MB100T01)
-* [4EU+ Molecular Probes in Biomedical Imaging](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=MB100P09)
-* [4EU+ Quantitative Microscopy](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=MB100P08)
-* [Image Analysis and Data Processing in Super-Resolution Microscopy (workshop)](https://vmcf-konfmi.github.io/workshop-IADPSRM/intro.html)
-* [Fundamentals of bioimage analysis (workshop)](https://web.natur.cuni.cz/sekce-bi/VMCF/bioimage-analysis-fundamentals-2/)
-
-
+You can check relevant university level [classes](https://web.natur.cuni.cz/sekce-bi/VMCF/teaching/) and [workshops](https://web.natur.cuni.cz/sekce-bi/VMCF/worskhops/) we take part in.
 
 
 ## 👨‍💻 Our team
-| Profile | Contact & Biography |
-| :--- | :--- |
-| ![Martin Schätz](/_images/schatz.png) | **Martin Schätz** <br> Email: martin.Schatz@natur.cuni.cz <br> X: @SchatzCz \| ORCID: 0000-0003-0931-4017 <br> Specializes in designing and implementing advanced workflows for user projects, advising on experimental design, and managing research data. His work includes teaching advanced image analysis techniques, research data management, open science and mentoring researchers on microscopy and data processing. |
-| ![Judith Garcia-Gonzalez](/_images/garcia.png) | **Judith Garcia-Gonzalez** <br> Email: garciagj@natur.cuni.cz <br> X: @judith_garciago <br> Specializes in bioimage analysis with expertise in cell and cytoskeleton segmentation, and has extensive experience in studying protein dynamics and interactions using fluorescence microscopy. Her work also includes teaching both foundational and advanced bioimage analysis techniques. |
-| ![Team member](/_images/team-placeholder.png) | **Team member** <br> Email: team_member@natur.cuni.cz <br> X: @team_member <br> Team member description |
+
+You can find dedicated page for [contacts here](https://web.natur.cuni.cz/sekce-bi/VMCF/data-analysis-team/).
 
 ## 💲Pricelist (without VAT)
-| Service | Description | Rate (per hour) |
-| :--- | :--- | :--- |
-| Consultations | Discussion with a bioimage analyst to define and understand the problem. | 41.32 Kč |
-| Workflow Establishment | In-depth exploration of the problem, researching potential solutions, and setting up workflows. | 83.47 Kč |
-| Manual Analysis/Scripting | Development of custom scripts or manual processing and analysis of images. | 322.31 Kč |
-| Computing Time | Charges for the time spent running scripts or imaging program functions, billed per millisecond of processing time. | 387.60 Kč |
+
+Central price list is available [here](https://web.natur.cuni.cz/sekce-bi/VMCF/konfmi/price-list/).
 
 ## 📩 Contact
 You can find us at: <br>
