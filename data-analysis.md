@@ -147,4 +147,4 @@ For any inquiries or to schedule a consultation, please reach out through the fo
 * [VMCF GitHub](https://github.com/vmcf-konfmi)
 * [X (@IMCF_vinicna)](https://x.com/IMCF_vinicna)
 * [Viničná Microscopy Core Facility (VMCF)](https://web.natur.cuni.cz/sekce-bi/VMCF/)
-* [Laboratory of Confocal and Fluorescence Microscopy (KONFMI)](https://www.natur.cuni.cz/biology/service/laboratory-of-confocal-and-fluorescence-microscopy?set_language=en)
+* [Laboratory of Confocal and Fluorescence Microscopy (KONFMI)](https://natur.cuni.cz/en/biology/departments-and-work-places/service-facilities/vinicna-microscopy-core-facility/laboratory-of-confocal-and-fluorescence-microscopy)
