@@ -6,10 +6,10 @@ post_type: page
 ---
 
 ## 1. Raw Data Lifecycle & NAS Storage
-All data acquired on facility microscopes are initially saved to the local **NAS (Network Attached Storage)**.
+All data acquired on facility microscopes is initially saved to the local **NAS (Network Attached Storage)**.
 
 * **Temporary Nature:** The NAS is a transition zone, not an archive.
-* Data will be automatically deleted after **[Insert Number]** days.
+* Data will be automatically deleted after **90** days.
 * **Transfer Responsibility:** Users must move their raw data to a permanent storage solution before the expiration period.
 * **Data Integrity:** We recommend verifying the checksum or file size after transfer to ensure no corruption occurred during the move.
 
@@ -45,9 +45,9 @@ The following table provides an overview of recommended repositories for your mi
 ---
 
 ## 4. Practical Steps for Users
-* **Acquisition:** Save experiment data to the NAS in a folder named `YYYY-MM-DD_ProjectName_Surname`.
+* **Acquisition:** Save experiment data to the NAS in a folder named `YYMMDD_Project-brief-description`.
 * **Immediate Backup:** Copy raw data to your **CESNET** storage or departmental server within 48 hours.
 * **Analysis:** If using the Analysis Server, pull data from your backup, process it, and push the results/scripts back to your archive or **GitHub**.
 * **Publication:** Prepare a subset of "Representative Data" or the full "Raw Dataset" for **Zenodo** or **BioImage Archive** to satisfy journal requirements or to archive it.
 
-These guidelines establish the standard procedures for data management within the Microscopy Core Facility. Following the Charles University Research Data Policy (2024), the responsibility for data preservation and management lies solely with the data producer/owner (Principal Investigator or student). The facility provides the infrastructure for acquisition and short-term handling, but long-term archival is the user's duty.
+These guidelines establish the standard procedures for data management within the Microscopy Core Facility. Following the Charles University Research Data Policy (2024), the responsibility for data preservation and management lies solely with the data producer/owner (Principal Investigator or student). The facility provides the infrastructure for acquisition and short-term handling; however, long-term archival is the user's responsibility.
