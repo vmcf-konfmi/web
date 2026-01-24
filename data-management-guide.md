@@ -12,7 +12,7 @@ These guidelines supplement and strictly adhere to the **Charles University (CU)
 ## 1. Responsibilities and Ownership
 
 ### Institutional Mandate
-The Facility operates in accordance with the <a href="https://cuni.cz/UKEN-1958.html" rel="nofollow noopener" target="_blank">CU Research Data Policy</a>. Users must manage their research data to ensure transparency, reproducibility, and compliance with the CU Code of Ethics and **GDPR**.
+The Facility operates in accordance with the [CU Research Data Policy](https://cuni.cz/UKEN-1958.html). Users must manage their research data to ensure transparency, reproducibility, and compliance with the CU Code of Ethics and **GDPR**.
 
 ### Data Ownership
 The **User/Principal Investigator (PI)** of the research project is the data owner by default, unless specific agreements (e.g., consortium contracts) state otherwise.
